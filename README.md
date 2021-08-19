@@ -12,3 +12,5 @@ STEPS:
 5. Create your account on Heroku
 6. Link your Heroku account to your Github account
 7. Deploy and test your App
+
+URl to Access the Application : https://flight-price-predictioon.herokuapp.com/
