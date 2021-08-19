@@ -1,6 +1,5 @@
 # Flight-Price-Predict-Deployment-Heroku
-
-In this machine learning project, we have build an end to end machine learning project and then deploy it via Heroku.
+We have build an end to end machine learning project and then deploy it via Heroku.
 
 Test App here: 
 
